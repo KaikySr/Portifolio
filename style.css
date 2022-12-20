@@ -277,7 +277,7 @@ i {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("surto.jfif");
+    background-image: url("imagens/surto.jfif");
     background-size: cover;
     justify-content: space-between;
 }
@@ -290,6 +290,10 @@ i {
     align-items: center;
 }
 
+.imgprojetos
+{
+    border-radius: 45px;
+}
 
 
 
